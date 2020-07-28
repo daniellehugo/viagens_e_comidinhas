@@ -1,0 +1,355 @@
+header{
+    margin: 40px 100px 40px 100px;
+    text-align: center;       
+    padding: 20px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: x-large;
+}
+
+.nome{
+    font-style: italic;
+    font-size: 15px;    
+}
+
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: larger;
+    font-variant-ligatures: common-ligatures;  
+}
+
+#pretext{
+    border: 5px solid #003296;
+    background-color: white;
+    padding: 5px;
+    margin: 100px 35px 100px 35px;
+}
+
+#title{
+     color: #00008B;
+     font-size: xx-large;
+     text-align: center;
+      }
+
+.text{
+     color: black;
+     text-align: justify;
+     } 
+         
+#norte{
+    border: 5px solid #003296;
+    background-color: aliceblue;
+    margin: 30px 800px 80px 10px;
+    padding: 10px 10px 10px 10px;
+}     
+#a:hover{
+    background-color: #003296;
+    color: antiquewhite;
+    text-decoration: none;   
+}
+
+#a{
+    color: #003296;
+    text-decoration: none;
+}
+
+#nordeste{
+    border: 5px solid #003296;
+    background-color: aliceblue;
+    margin: 30px 800px 80px 10px;
+}   
+
+#centro{
+    border: 5px solid #003296;
+    background-color: aliceblue;
+    margin: 30px 800px 80px 10px;
+}   
+
+#sudeste{
+    border: 5px solid #003296;
+    background-color: aliceblue;
+    margin: 30px 800px 80px 10px;
+}   
+
+#sul{
+    border: 5px solid #003296;
+    background-color: aliceblue;
+    margin: 30px 800px 80px 10px;
+}   
+
+#principal{ 
+    height: 100%;
+    background-image: url("images/rio.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:white;
+    background-position: center;
+    text-align: center;
+    margin: 20px 30px 30px 10px;
+}
+
+.estados{
+    text-align: left;
+}    
+h6{
+    border: 5px solid black;
+    background-color: black;
+    margin: 0;
+    color: white;
+}
+
+/* ESTA É A PÁGINA MANAUS */
+#manaus{
+    height: 100%;
+    background-image: url("images/vitoria_regia.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:white;
+    background-position: center;
+    text-align: center;
+    margin: 20px 30px 30px 10px;
+}
+
+.titlem{
+    color: azure;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: larger;
+    font-variant-ligatures: common-ligatures;
+}
+
+.textm{
+    color: azure;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 30px;
+    font-variant-ligatures: common-ligatures;
+}
+/* IMAGENS */
+
+.tour{
+     margin: 10px 10px 10px 10px;
+     padding: 10px;
+}
+
+#rion{
+    border: 5px solid green;  
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-left: 50px;  
+}
+
+#mus{
+    border: 5px solid green; 
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    margin-left: 80px;     
+}
+#bot{
+    border: 5px solid green;    
+}
+#tac{
+    border: 5px solid green;  
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-left: 50px;  
+}
+#tap{
+    border: 5px solid green; 
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    margin-left: 80px;      
+}
+
+/* DIV SABORES*/
+
+#sabores{
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-variant-ligatures: common-ligatures;
+    margin-top: 50px;
+    color: cornsilk;
+    font-size: x-large;                
+}
+
+/* TAGS HOVER E A*/
+.b:hover{
+    background-color: #117575;
+    color: antiquewhite;
+    text-decoration: none;  
+} 
+
+.b{
+    color: antiquewhite;
+    text-decoration: none;  
+}
+
+.back{
+    background-color: black;
+    color: antiquewhite;
+    text-decoration: none; 
+}
+
+/* FINAL PÁGINA MANAUS */
+
+/*PÁGINA TURISMO*/
+
+#tur{
+    background-image: url("images/boat.jpg");
+    background-size: cover;
+    background-position: top center;
+}
+
+/* H1 E H2*/
+  
+.titlet{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: larger;
+    font-variant-ligatures: common-ligatures;
+    margin-top: 20px;
+}
+
+.subtitlet{
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+
+/*PARAGRAPH*/
+
+.med{
+    font-size: medium;
+    font-weight: 500;
+}
+
+footer{
+    border: 5px solid black;
+    background-color: black;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+/* TAGS HOVER E A */
+
+#fonte:hover{
+    background-color: black;
+    color: antiquewhite;
+    text-decoration: none;  
+} 
+
+a{
+    color: rgb(23, 23, 214);
+    text-decoration: none;
+}
+
+.back{
+      text-align: center;
+      background-color: black;
+      color: antiquewhite;      
+}
+
+/*PÁGINA GASTRONOMIA*/
+
+body{
+       background-image: url("images/peixe.jpg");
+       background-attachment: fixed;
+       background-color: white;
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+}
+
+#textg{
+        color: white;
+        text-align: center;
+        font-size: xx-large
+        font-weight: bolder;
+}
+
+.grid{
+        display: grid;
+        grid-template-columns: 500px 500px;
+        color: white;
+        margin-left: 200px;
+}
+
+header{
+        text-align: center;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: oblique;
+        font-variant-ligatures: common-ligatures;
+        margin-top: 20px;
+}
+
+.subg{
+    text-align: center;
+    color: white;
+    font-size: xx-large; 
+    text-decoration: underline;
+}
+
+/* TAGS HOVER E A */
+.recipe{
+    color: rgb(23, 23, 214);
+    text-decoration: none;
+}
+
+.recipe:hover{
+    background-color: black;
+    color: antiquewhite;
+    text-decoration: none;  
+} 
+
+.nav:hover{
+    background-color: black;
+}
+
+/*TAG NAV*/
+
+.nav{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    color: blanchedalmond;
+    justify-content: center; 
+    margin: 20px;
+    margin-left: 250px;
+}
+nav a {
+    text-decoration: none;
+    color: White;
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+           
